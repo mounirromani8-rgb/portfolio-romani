@@ -25,7 +25,6 @@ Ce site a été conçu pour mettre en valeur mon profil technique et professionn
   * 💼 Projets (Power BI, Streamlit, Dagster, Vision par ordinateur...)
   * 📜 Lettres de recommandation (PDF cliquables)
 * Design **responsive** compatible mobile, tablette et desktop
-* Intégration **Google Analytics** pour le suivi des visites
 * Optimisation SEO (métadonnées, structure HTML propre)
 
 ---
@@ -37,7 +36,7 @@ Ce site a été conçu pour mettre en valeur mon profil technique et professionn
 | **Langages**                | HTML5, CSS3, JavaScript                               |
 | **Frameworks / Librairies** | Bootstrap 5, AOS (Animate On Scroll), SwiperJS        |
 | **Outils**                  | GitHub Pages, Google Fonts, Boxicons, Bootstrap Icons |
-| **Suivi / Analytics**       | Google Tag Manager (gtag.js)                          |
+     |                      
 
 ---
 
