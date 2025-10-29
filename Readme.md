@@ -100,7 +100,7 @@ Le portfolio est prêt à être déployé sur **GitHub Pages** :
 
 ## 📝 Licence
 
-Ce projet est distribué sous licence MIT.
+Ce projet est distribué sous licence Apache.
 Tu es libre de le réutiliser et de le modifier à des fins personnelles ou éducatives.
 
 ---
