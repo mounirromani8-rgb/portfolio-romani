@@ -7,7 +7,7 @@ Ce site a été conçu pour mettre en valeur mon profil technique et professionn
 
 ## 🚀 Aperçu
 
-🔗 **Lien du site déployé :** [(https://mounirromani8-rgb.github.io/portfolio-romani)](#) 
+🔗 **Lien du site déployé :** [Voir mon portfolio](https://mounirromani8-rgb.github.io/portfolio-romani)
 📧 **Contact :** [mounirromani8@gmail.com](mailto:mounirromani8@gmail.com)
 
 ---
